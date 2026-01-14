@@ -89,7 +89,9 @@ https://docs.google.com/spreadsheets/d/18NEEU-XPZNYJsAcPo5OTG1lMhwoj-uwFddqbdqHY
 
 #### From Dean Bushmiller
 This document: 20250207 from Expanding Security and Dean Bushmiller
+
 Resources may only be available at the time of class. Please download all resources ASAP.
+
 If you cannot access this AWS share from your current setup, email [1@vmlt.com] with the subject "**PPWSOT**".
 
 ### Free Resources
@@ -98,10 +100,10 @@ If you cannot access this AWS share from your current setup, email [1@vmlt.com] 
 *All accounts will be created on the Friday following class.*
 
 ### Content Mindmaps
-[Main](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/00SecArchBegDeanBushmiller)
-[01-SecurityArchitectureTools](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/01-SecurityArchitectureTools.html)
-[02-SuperProcess](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/02-SuperProcess.html)
-[03-ScanandPatch](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/03-ScanandPatch.html)
-[04-PracticalRiskAssessment](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/04-PracticalRiskAssessment.html)
-[05-ControlsPARAMEDIC](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/05-ControlsPARAMEDIC.html)
-[06-CollectingRequirements](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/06-CollectingRequirements.html)
+* [Main](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/00SecArchBegDeanBushmiller)
+* [01-SecurityArchitectureTools](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/01-SecurityArchitectureTools.html)
+* [02-SuperProcess](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/02-SuperProcess.html)
+* [03-ScanandPatch](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/03-ScanandPatch.html)
+* [04-PracticalRiskAssessment](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/04-PracticalRiskAssessment.html)
+* [05-ControlsPARAMEDIC](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/05-ControlsPARAMEDIC.html)
+* [06-CollectingRequirements](https://20250207-orm-secarchbeg.s3.us-east-1.amazonaws.com/06-CollectingRequirements.html)
